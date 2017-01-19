@@ -99,7 +99,7 @@
 				<configuration>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 					<outputDirectory>target</outputDirectory>
-				<warName>ROOT</warName>
+				<warName>EMPLOYEEDETAILSMASTER</warName>
 				</configuration>
 			</plugin>	
 		</plugins>
